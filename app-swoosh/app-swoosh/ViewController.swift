@@ -14,7 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
+@IBAction func myUnwindAction(unwindSegue: UIStoryboardSegue)
+{
+    
+    }
 
 }
 
